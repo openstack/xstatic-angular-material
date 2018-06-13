@@ -1,0 +1,9 @@
+Code-Review+2: Ivan Kolodyazhny <e0ne@e0ne.info>
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Workflow+1: Akihiro Motoki <amotoki@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 13 Jun 2018 08:31:40 +0000
+Reviewed-on: https://review.openstack.org/559978
+Project: openstack/xstatic-angular-material
+Branch: refs/heads/master
