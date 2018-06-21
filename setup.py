@@ -3,7 +3,7 @@ from xstatic.pkg import angular_material as xs
 
 # The README.txt file should be written in reST so that PyPI can use
 # it to generate your project's PyPI page.
-long_description = open('README.txt').read()
+long_description = open('README.rst').read()
 
 setup(
     name=xs.PACKAGE_NAME,
